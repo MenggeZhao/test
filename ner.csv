@@ -669,7 +669,6 @@ NER,src
 "limited speech", Plos General
 "biologic function", ADAR
 "gastrointestinal diseases", ASDPTO
-nk articulation
 "problem solving ability", ASDPTO;ADAR
 "eye contact was marginal, usually fleeting, typified by lack of social acknowledgment", Plos General
 "self help skills no loss", ADAR
@@ -710,13 +709,11 @@ nk articulation
 "poverty of facial expression", Plos General
 "loss of syntactical skills", ADAR
 "psychologic indications", ASDPTO
-eye contact very difficult
 "social interaction capability", ADAR
 "personal traits", ASDPTO;ADAR
 "stereotyped, repetitive behavior", Plos General
 "string 2 to 3 words together at a time", Plos General
 "nothing to suggest imitation", Plos General
-nk five meaningful words use
 "plays by himself", Plos General
 "impairment of play behavior", ADAR
 "no spontaneous social interaction", Plos General
@@ -902,11 +899,9 @@ nk five meaningful words use
 "easily upset by change in routines", Plos General
 "difficulty establishing close relationships", Plos General
 "diabetes mellitus type 1", ASDPTO
-nk communicative intent
 "savant positive", ADAR
 "compulsions or rituals", ADAR
 "mental retardation", ASDPTO
-somewhat withdrawn
 "connected spatiotemporal region", ADAR
 "limited interaction with other individuals", Plos General;Plos General
 "very preoccupied with cartoons", Plos General
@@ -1038,7 +1033,6 @@ somewhat withdrawn
 "zero interaction with people", Plos General
 "able to initiate a social interaction", Plos General
 "marked mannerisms associated with social impairment", ADAR
-loss of language skills nk
 "withdrawn, passive behavior", Plos General
 "obsessive rituals before going to bed, opening cupboards", Plos General
 "smith-lemli-opitz syndrome", ASDPTO
@@ -1215,7 +1209,6 @@ loss of language skills nk
 "repeating sounds in perseverative way", Plos General
 "hand licking", Plos General
 "delayed; speech", Plos General
-nk syntactical skills
 "definite loss of syntactical skills", ADAR
 "no phrases", ADAR
 "acquisition of bowel control", ADAR
@@ -1331,7 +1324,6 @@ nk syntactical skills
 "expressive language", ASDPTO;ADAR
 "speech delay", Plos General
 "only plays by lining things up", Plos General
-vocabulary term
 "enters into interactions with other children", Plos General
 "no sharing", ADAR
 "substance abuse during pregnancy", ASDPTO
@@ -1430,7 +1422,6 @@ vocabulary term
 "he cannot tolerate changes in his routine", Plos General
 "disregards all attempts to interact with him", Plos General
 "becomes upset if parents fail to follow specific car route", Plos General
-did not initiate any eye contact
 "he will resist being held, hugged or shown physical affection", Plos General
 "hand sucking", Plos General
 "is in his own little world", Plos General

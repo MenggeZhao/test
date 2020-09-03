@@ -1,0 +1,740 @@
+CUI	TUI	NAME	odds ratio	ASD pos	ASD neg	non-ASD pos	non-ASD neg	similarity	seed NER
+C0262926	T033	Medical history	99.0	9	1	1	11	1.0	medical history
+C3151702	T033	Limited facial expression	43.0	43	0	1	0	1.0	facial expression
+C1845866	T033	Behavioral changes consistent with an autistic disorder	35.2	16	5	1	11	0.7832	autistic disorder
+C3166145	T184	PhenX measure - symptoms of autism spectrum disorders	27.7143	97	1	7	2	0.6191	autism spectrum disorder related condition
+C0233741	T033	Repetition of phrases	20.0	20	1	1	0	0.8954	phrases
+C0403445	T047	Fechtner syndrome (disorder)	20.0	4	1	0	5	0.8238	cri-du-chat syndrome
+C1851085	T048	Severe expressive language delay	18.0	18	1	1	0	0.8888	expressive language
+C1171217	T058	Sexual behaviour analysis	18.0	18	0	1	0	0.6432	finger-play behavior
+C0476548	T033	Undue concern and preoccupation with stressful events	16.0	16	1	5	5	0.6088	preoccupation with trash, bathrooms, memorizing birthdays
+C0548845	T033	Cognitive impairment caused by developmental disability	16.0	16	1	1	0	0.6601	semantic-pragmatic impairment
+C0002768	T047	congenital pain insensitivity	16.0	16	1	1	1	0.6121	indifference to pain
+C1864897	T033	Cognitive delay	15.0	55	1	22	6	0.6811	delay language
+C0520673	T048	Recurrent major depressive disorder with atypical features	15.0	5	1	1	3	0.6397	depressive disorder
+C0542223	T033	SPEECH LOSS	15.0	5	1	1	3	0.8349	delayed; speech
+C0424375	T033	biting self	13.5	27	0	2	1	0.7385	self concept
+C2220010	T048	Socially inappropriate behavior	13.3333	20	1	3	2	0.7134	self-abusive behavior
+C4064035	T033	social interaction impairment in social/emotional reciprocity	13.125	105	2	4	1	0.7508	impairment of non-verval social interaction
+C0564213	T033	Difficulty using language	13.1143	153	1	35	3	0.8538	delayed; language
+C0517108	T033	Uses phrases of two to three words	13.0	13	1	1	1	0.6609	occasional use of neologisms or idiosyncratic words and phrases
+C0424372	T033	Biting own hand (finding)	13.0	13	0	0	0	0.6991	hand clapping
+C1862474	T033	Decreased facial expression	13.0	13	0	0	0	1.0	facial expression
+C0870537	T041	faces recognition	13.0	0	1	0	13	0.616	expressionless face
+C2018050	T033	speech nonverbal communication skills facial expressions	12.3673	606	0	49	0	0.713	facial expressions
+C0814299	T033	factor genetic risk	12.3333	37	1	3	0	0.7338	risk factor
+C2937292	T033	social engagement	12.0	12	0	0	0	0.7624	social engagement and responsiveness
+C4022736	T048	Impaired social reciprocity	12.0	12	1	1	0	1.0	social reciprocity
+C0349331	T048	Other pervasive developmental disorders	12.0	12	1	3	3	0.6509	pervasive child development disorders
+C1112320	T184	temperature intolerance	12.0	4	0	0	3	0.7831	sensory intolerance
+C0439658	T080	classic behavior	12.0	3	1	0	4	0.7801	finger-play behavior
+C0023292	T056	Leisure Activities	11.0	22	1	2	0	0.6024	engagement in social activities
+C0086133	T048	Syndrome, Depressive	11.0	11	0	0	1	0.688	depressive disorder
+C2170451	T033	repetition with secondary hand flapping	11.0	11	1	0	0	0.7655	hand flapping
+C0026351	T048	Moderate intellectual disability	10.8333	65	1	6	0	0.6704	mental retardation
+C0813217	T033	Expressionless face	10.75	172	2	8	0	0.957	expressionless face
+C4060627	T033	Insufficient interest in learning	10.0	10	0	0	0	0.6095	interest in peers
+C0011768	T048	developmental receptive language disorder	10.0	40	1	4	1	0.8448	receptive language
+C4280573	T033	Communication delay	10.0	10	1	1	0	0.6811	delay language
+C0205369	T080	Specific (qualifier value)	10.0	10	1	1	1	0.6335	quantitative value
+C0749721	T047	factors risk tuberculosis	10.0	0	1	1	10	0.7189	risk factor
+C2372079	T054	Maintaining social interactions	9.3333	28	1	3	0	0.8433	decreased social interactions
+C0424042	T033	Abnormal perception	9.1667	11	2	3	5	0.7251	color perception
+C0558264	T033	Finding relating to non-verbal communication	9.0556	163	2	9	0	0.9015	non-verbal communication
+C0811727	T058	Obtain a pertinent medical history	9.0	18	0	2	0	0.7276	medical history
+C3161184	T047	Dementia, with aggressive behavior	9.0	9	0	0	0	0.8273	aggressive behavior
+C2372114	T056	Shared cooperative play	9.0	9	1	1	0	0.7567	enjoys parallel active play but little or no cooperative play
+C0857332	T184	clonic movements	9.0	9	1	2	2	0.7457	stereotypical movements
+C0262477	T033	eye problems	9.0	6	2	1	3	0.7078	eye to eye gaze
+C0017178	T047	Diseases, Gastrointestinal	8.5714	10	1	7	6	1.0	gastrointestinal diseases
+C0233641	T048	concrete thinking	8.5	17	1	2	0	0.7961	visual thinking
+C1527347	T033	difficulty speaking	8.3333	15	0	9	5	0.646	speaking in third person
+C2674588	T033	Hypermotor behavior	8.0	8	0	0	0	1.0	finger-play behavior
+C3845943	T033	Walks occasionally	8.0	8	0	1	0	0.8948	occasionally echolalic
+C4229998	T033	Lack of eye contact	8.0	8	0	1	0	0.8815	eye contact
+C3532947	T048	Severe receptive language delay	8.0	8	0	1	0	0.8884	receptive language
+C2112864	T033	rigid standing posture	8.0	8	0	0	0	0.6219	body posture
+C4064943	T033	idiosyncratic language	8.0	12	3	2	4	0.9524	neologisms idiosyncratic language notavailable
+C1827728	T033	Limited reasoning ability	8.0	8	0	0	0	0.6662	problem solving ability
+C3809495	T033	Autism (in some patients)	8.0	8	0	0	0	0.6514	some echolalia
+C1852284	T033	Mild to moderate hearing loss	7.875	9	2	4	7	0.7602	hearing loss
+C0007682	T047	CNS disorder	7.5	5	1	2	3	0.7267	central nervous system diseases
+C0516906	T033	drug psychotropic use	7.5	5	1	2	3	0.6706	drug abuse
+C2372078	T054	Initiating social interactions	7.1667	43	1	6	0	0.8433	decreased social interactions
+C0566039	T033	Difficulty using words	7.0	7	0	1	0	0.6297	no words
+C0856975	T048	Autistic behaviors	7.0	35	5	1	1	1.0	finger-play behavior
+C0474407	T033	Bizarre behaviors	7.0	26	2	13	7	1.0	finger-play behavior
+C2052875	T048	perceptual disturbances visual skills	7.0	7	0	1	1	0.6315	visual perception
+C0871330	T055	self talk	7.0	7	0	1	1	0.7673	talking to self
+C1848207	T033	Poor speech	7.0	7	0	0	0	1.0	delayed; speech
+C0427144	T033	toe-walking gait	7.0	35	2	5	2	1.0	toe-walking gait
+C4274558	T033	Difficulty understanding verbal language	7.0	7	1	1	0	0.7497	delayed; language
+C0563712	T033	Ability to control emotions	7.0	7	0	1	0	0.6502	managing internal emotions
+C0474411	T033	Complex mannerisms - behavior	7.0	7	0	1	0	0.7683	finger-play behavior
+C0023003	T047	Langer Giedion Syndrome	7.0	7	1	0	0	0.8509	cri-du-chat syndrome
+C2018040	T033	speech language uses neologisms (paraphasic errors)	7.0	0	0	2	14	0.7394	delayed; speech
+C0517871	T056	Leisure behaviour	6.9565	10	0	23	16	1.0	finger-play behavior
+C0517127	T033	Plays interactive games with peers	6.7143	94	2	7	0	0.6131	doesn't play games with family members or friends
+C0037822	T047	speech disorder	6.6667	10	0	3	2	1.0	delayed; speech
+C0424095	T033	social withdrawal	6.6038	50	1	53	7	1.0	social withdrawal
+C0424421	T033	eating problems	6.5455	12	0	11	6	0.6279	eating ability
+C0518192	T033	Play behaviour	6.4667	97	0	15	1	1.0	finger-play behavior
+C0233743	T033	Prosody	6.2857	44	0	7	1	0.7806	atypical prosody
+C0005892	T054	Body Languages	6.25	150	3	8	1	1.0	delayed; language
+C4014067	T033	Hyperactivity (in some patients)	6.1071	57	0	28	3	0.6514	some echolalia
+C3553159	T033	Autism or autistic features	6.0	12	0	2	0	0.6675	autistic disorder
+C0175842	T101	Autistic children	6.0	6	0	1	0	0.7418	autistic disorder
+C1843016	T033	Loss of language ability	6.0	6	0	1	1	0.8685	language ability
+C0042943	T080	quality voice	6.0	6	0	3	3	0.6671	repetitious, recitation-like quality
+C0683412	T048	Atypical anxiety disorder	6.0	6	1	1	0	0.8715	anxiety disorders
+C0178468	T047	autoimmune disease thyroid	6.0	6	0	1	0	0.8224	autoimmune diseases
+C0239846	T033	Hand-wringing	6.0	6	1	0	0	0.817	hand clapping
+C4065487	T033	demonstrated behavior stereotypy odd hand movements	6.0	6	1	0	0	0.6903	hand movements
+C0796135	T047	RENPENNING SYNDROME 1	6.0	3	1	0	2	0.6861	cri-du-chat syndrome
+C0036391	T047	schwartz jampel syndrome	6.0	6	0	1	0	0.8238	cri-du-chat syndrome
+C2749647	T033	Notable friendly behavior	6.0	9	2	3	4	0.6411	finger-play behavior
+C0016142	T048	Firesetting Behavior	6.0	2	1	1	3	1.0	finger-play behavior
+C4022738	T033	Neurodevelopmental delay	6.0	12	0	4	2	0.6811	delay language
+C0150820	T054	Verbal Communication	6.0	18	1	3	0	1.0	communication verbal
+C3841918	T033	Psychiatric problem/abnormal behavior/suicide attempt	6.0	3	1	1	2	0.7305	limited attempt
+C0424300	T033	Invades others' personal space	6.0	4	1	2	3	0.6723	awareness of social and personal space
+C1398152	T184	lack of; responsiveness, behavior	6.0	6	0	0	0	0.7006	finger-play behavior
+C0175695	T047	Sotos Syndrome	6.0	6	1	1	0	0.8238	cri-du-chat syndrome
+C0436141	T058	Brief nervous system examination	6.0	6	0	0	0	0.6022	nervous system diseases
+C4066153	T033	BRIEF global executive composite T-score	6.0	6	0	1	0	0.6174	executive function
+C0029232	T048	disorder; mood, organic	6.0	4	1	2	3	0.7741	mood disorders
+C0455498	T033	history; psychiatric disorder	6.0	0	1	1	6	0.6677	mental disorders
+C0231834	T033	Abnormal respiratory rate	6.0	2	1	0	3	0.6941	respiratory indications
+C0424248	T033	Flapping movements of arms	6.0	3	0	1	2	0.6906	flapping movements of hands
+C0946050	T055	Emotional Stability:behavior	5.9615	31	4	39	30	0.7	finger-play behavior
+C0009450	T047	Communicable diseases	5.8333	7	1	6	5	0.649	urogenital diseases
+C0085281	T048	Addictive Behavior	5.8065	36	1	31	5	1.0	finger-play behavior
+C4064201	T033	restricted, repetitive, and stereotyped patterns	5.8	29	3	5	3	0.6472	stereotyped restricted and repetitive behavior
+C0001950	T048	Idiosyncratic alcohol intoxication	5.7143	20	7	2	4	0.6798	neologisms idiosyncratic language notavailable
+C0584995	T048	difficulty writing	5.6778	73	3	60	14	0.6956	reading and writing
+C0424374	T033	Scratches self	5.5	22	1	4	0	0.7385	self concept
+C0036602	T041	Stimulations, Self	5.5	55	4	10	4	0.8323	general self stimulation
+C0454655	T048	Semantic Pragmatic Disorder	5.3333	16	1	3	0	0.6475	social interaction disorder
+C0581878	T033	Limited speech	5.3333	32	1	6	0	1.0	delayed; speech
+C0566093	T033	Difficulty maintaining conversation	5.3333	16	0	3	0	0.7436	difficulty sustaining conversation
+C0423906	T033	Difficulty problem-solving	5.2692	137	0	26	0	0.7849	problem solving ability
+C0019937	T047	horners syndrome	5.2	26	1	5	0	0.8238	cri-du-chat syndrome
+C1865897	T033	Decreased nonverbal IQ	5.2	26	1	5	0	0.7103	integrated verbal and nonverbal communication
+C0233534	T055	Aggressive biting	5.0	15	1	3	1	0.8039	arm biting
+C1656427	T048	early onset schizophrenia	5.0	5	0	1	0	0.6075	schizophrenia and disorders with psychotic features
+C3809599	T033	Recurrent infections (in some patients)	5.0	5	0	0	0	0.7164	herpesviridae infections
+C2018079	T033	speech rate slowed	5.0	5	0	1	0	0.6223	delayed; speech
+C1321113	T055	Seizure control behavior	5.0	5	0	1	1	0.7148	finger-play behavior
+C3166351	T033	Speech difficult to understand	5.0	5	1	1	0	0.6595	speech peculiar or difficult to understand
+C4064942	T033	idiosyncratic language perseverative	5.0	5	0	0	0	0.8193	neologisms idiosyncratic language notavailable
+C0010314	T047	CRI-DU-CHAT SYNDROME	5.0	5	0	1	0	1.0	cri-du-chat syndrome
+C1838025	T033	Limited verbal comprehension	5.0	10	0	2	0	0.6359	communication verbal
+C0680206	T054	relatedness, relationship	5.0	5	0	1	0	0.6339	peer relationship
+C0010068	T047	Coronary Heart Diseases	5.0	5	0	0	1	0.7012	cardiovascular diseases
+C0152128	T047	drug withdrawal syndrome	5.0	5	3	1	3	0.6459	social withdrawal
+C1844429	T033	Delayed motor development, mild	5.0	5	0	1	0	0.6332	motor perseveration
+C0162739	T047	HELLP syndrome	5.0	5	1	1	0	0.8238	cri-du-chat syndrome
+C0400839	T047	ulcer; rectum	5.0	5	0	1	0	0.742	stomach ulcer
+C0270971	T047	Floppy Infant Syndrome	5.0	5	0	0	0	0.693	cri-du-chat syndrome
+C1285355	T047	Mendelian disorders	5.0	5	0	1	0	0.6463	migraine disorders
+C0016436	T047	FOLLICULITIS	5.0	5	0	0	0	0.6971	repetition, nos
+C1845266	T033	Inability to communicate	5.0	5	0	1	0	0.6611	does not use gestures to communicate
+C4066025	T033	celf-4 expressive language index standard score	5.0	5	0	1	0	0.6607	expressive language
+C1969697	T048	Repetitive compulsive behavior	5.0	5	1	0	0	1.0	compulsive behavior
+C4012021	T033	Dysarthria (in some patients)	5.0	5	0	0	0	0.6514	some echolalia
+C0036992	T047	SHORT-BOWEL SYNDROME	5.0	5	0	1	0	0.8238	cri-du-chat syndrome
+C0747256	T047	Parasitic infection	5.0	5	1	1	1	0.684	herpesviridae infections
+C3805748	T033	Tremor (in some patients)	5.0	5	1	0	0	0.6514	some echolalia
+C3551491	T033	Aggression (in some patients)	4.9655	72	1	29	2	0.6514	some echolalia
+C4064940	T033	idiosyncratic language self-stimulatory vocalizations	4.9412	12	17	3	21	0.7855	unintelligible vocalizations
+C0152027	T047	sensory disorder	4.8889	13	13	9	44	0.6463	migraine disorders
+C0596170	T048	binge disorders eating	4.8718	15	9	13	38	0.6163	social interaction disorder
+C2189304	T033	verbal communication difficulty following social rules	4.8333	58	2	6	0	0.6938	verbal communication
+C1839029	T033	Intellectual delay	4.75	19	0	4	0	0.6811	delay language
+C0236826	T048	Developmental expressive language disorder	4.6667	70	2	30	4	0.8492	expressive language
+C0239043	T033	Chewing Difficulty	4.6667	14	3	2	2	0.6078	difficulty answering questions
+C3550976	T033	Aggressive behavior (in some patients)	4.625	37	0	16	2	0.8836	some self-stimulatory behavior
+C0549240	T033	Head-nodding	4.6154	30	2	13	4	1.0	nodding
+C0871269	T033	Rhythm	4.5652	21	1	23	5	0.6245	intonation volume rhythm rate
+C0589099	T041	Sustained Attention	4.5161	112	3	124	15	0.6602	attention to voice notavailable
+C0231471	T033	Abnormal posture	4.5	2	1	4	9	0.8129	body posture
+C0032992	T033	planning pregnancies	4.5	9	0	6	3	0.6815	pregnancy complications
+C0424605	T048	Developmental delay (disorder)	4.456	924	74	255	91	0.6811	delay language
+C2678119	T033	Impaired attentional and executive function	4.4324	164	0	37	1	0.7942	executive function
+C0085880	T055	Behavior, Adaptive	4.4286	31	0	7	0	1.0	finger-play behavior
+C0026267	T047	Mitral valve prolapse syndrome	4.4	24	4	15	11	0.6107	cri-du-chat syndrome
+C0035372	T047	Retts syndrome	4.3333	13	3	1	0	1.0	rett syndrome
+C0562476	T033	Self-stimulative behavior	4.3333	26	3	2	0	1.0	finger-play behavior
+C0856863	T033	Broad-based gait	4.3333	13	0	3	1	0.9266	toe-walking gait
+C4014590	T033	Loss of motor skills	4.3333	4	12	1	13	0.9039	motor skills
+C3553204	T033	Speech and language regression	4.3125	46	4	8	3	0.6286	regression of language skills
+C0474408	T048	attention seeking behavior	4.2857	15	1	7	2	1.0	finger-play behavior
+C0013987	T041	emotion	4.254	670	25	252	40	0.884	showing emotion
+C0349325	T048	Developmental disorder of speech and language, unspecified	4.2	12	4	5	7	0.7371	delayed speech and language
+C2156813	T033	deficiencies of nonverbal communication skills	4.2	42	1	10	0	0.6317	integrated verbal and nonverbal communication
+C0575081	T033	Gait Abnormalities	4.1126	50	7	33	19	0.8214	toe-walking gait
+C1845863	T033	Speech and language delay, severe	4.0	8	0	2	0	0.6682	delayed speech and language
+C0338614	T048	Psychotic episode	4.0	13	0	13	4	0.6156	schizophrenia and disorders with psychotic features
+C0338483	T047	Migraine with prolonged aura	4.0	8	1	8	4	0.6215	migraine disorders
+C1850072	T033	Tented upper lip	4.0	4	0	1	0	0.7181	lip smacking
+C0018523	T047	hallervorden-spatz syndrome	4.0	4	1	1	0	0.8238	cri-du-chat syndrome
+C2673260	T033	Limited expressive language	4.0	16	1	4	0	1.0	expressive language
+C0558165	T033	Curly hair (finding)	4.0	4	0	1	0	0.9048	hair flicking
+C1269755	T033	compulsive eating	4.0	8	0	2	1	0.7293	eating ability
+C0517907	T033	muscle movement	4.0	4	0	0	0	0.6057	stereotypic movements
+C0517239	T033	Use of non-verbal language	4.0	4	0	1	0	0.7573	non-verbal
+C0871226	T054	Reciprocity	4.0	25	5	5	4	0.7782	social reciprocity
+C0565705	T033	Difficulty picking up objects	4.0	4	0	1	0	0.6768	picking at objects until disassembled
+C0233625	T048	bites cheek	4.0	4	0	1	1	0.8039	arm biting
+C4023013	T048	Stereotypical body rocking	4.0	4	0	0	0	1.0	body rocking
+C0700613	T048	Anxiety state	4.0	20	1	15	3	0.6873	social anxiety
+C0683357	T048	excessive drinking	4.0	4	0	0	0	0.751	alcohol drinking
+C1865059	T033	Gross motor delay, mild	4.0	4	0	0	0	0.6332	motor perseveration
+C0678999	T055	life skills	4.0	4	0	1	0	0.8981	adaptive life skills
+C1557169	T033	Adverse Event Associated with Metabolic and Laboratory Abnormalities	4.0	4	0	1	0	0.6549	obsessed with elevators, writing, and drawing
+C0221034	T047	allergy gastrointestinal	4.0	4	0	0	0	0.6737	gastrointestinal diseases
+C0424288	T033	Compulsive handwashing	4.0	4	0	0	0	0.6017	repetitive hand washing
+C0338984	T048	Residual infantile autism	4.0	4	0	1	0	0.7006	autistic disorder
+C3806568	T033	Hearing impairment (in some patients)	4.0	4	0	1	1	0.7815	semantic-pragmatic impairment
+C4064177	T033	routines/rituals perseverative play	4.0	4	0	1	0	1.0	perseverative play
+C4065876	T033	communication impairment in development of spoken language	4.0	4	1	1	0	0.7146	development of spoken speech
+C0265354	T047	CHARGE Syndrome	4.0	4	0	0	0	0.8238	cri-du-chat syndrome
+C3554323	T033	Impaired executive function (in some patients)	4.0	12	0	3	1	0.9133	executive function
+C0149745	T047	ORAL ULCER	4.0	12	9	6	18	0.742	stomach ulcer
+C0041408	T047	Turner syndrome, NOS	4.0	10	0	5	2	0.8238	cri-du-chat syndrome
+C0265326	T047	Bannayan Riley Ruvalcaba Syndrome	4.0	4	0	0	0	0.8238	cri-du-chat syndrome
+C0031269	T047	peutz jeghers syndromes	4.0	8	0	2	0	0.8238	cri-du-chat syndrome
+C0806915	T033	Discharge medications	4.0	4	0	1	0	0.7177	medications during pregnancy
+C0857334	T033	Colicky sensation quality	4.0	4	0	1	0	0.6821	repetitious, recitation-like quality
+C0456006	T047	Avery's syndrome	4.0	4	1	1	0	0.8238	cri-du-chat syndrome
+C0494397	T048	Mild depressive episode	4.0	4	0	1	0	0.7577	depressive disorder
+C0871623	T080	writing skills	4.0	4	0	1	0	0.6382	loss of language skills or other skills
+C1970431	T047	Pitt-Hopkins syndrome	4.0	4	0	0	0	0.8238	cri-du-chat syndrome
+C0011586	T041	depth perception	4.0	4	0	1	0	0.7251	color perception
+C4063018	T033	Decrease in fine motor skills	4.0	4	0	0	0	0.9359	fine motor skills
+C1850106	T047	Raine syndrome	4.0	4	0	1	0	0.8238	cri-du-chat syndrome
+C0751246	T048	visual illusion	4.0	4	0	1	0	0.6062	visual perception
+C1955750	T048	speech and language developmental delay due to hearing loss	4.0	4	0	1	0	0.8204	speech and language delay
+C2170445	T033	repetition of single-syllable words	4.0	4	0	1	0	0.7427	repeating words
+C0236825	T048	Developmental expressive writing disorder	4.0	4	0	0	1	0.6104	expressive phonology
+C0566081	T033	Difficulty joining in conversation	4.0	4	1	1	1	0.6241	notavailable reciprocal conversation
+C2958281	T058	rnax support speech therapy service	4.0	4	0	0	0	0.606	delayed; speech
+C4274577	T033	Able to understand humour	4.0	4	0	0	0	0.6919	skill in understanding humor
+C2018038	T033	speech language echolalia	4.0	4	0	0	0	0.8296	delayed; speech
+C0576934	T033	Eyes turn in response to sound	4.0	4	0	1	0	0.6638	abnormal response to sound
+C0233953	T048	aggression sexual	4.0	4	1	1	0	0.678	aggressive behavior
+C1709158	T047	Impairment To Hearing, Neonatal	4.0	0	0	0	4	0.8554	hearing loss
+C1510586	T048	Autism spectrum disorders	3.9949	2927	369	413	208	0.8229	autism spectrum disorder related condition
+C0037769	T047	Syndrome, West	3.8	19	2	5	2	0.8238	cri-du-chat syndrome
+C0426886	T033	Tapering fingers (finding)	3.8	19	2	10	4	0.7352	finger wiggling
+C0032214	T056	plays	3.8	19	2	25	10	0.9005	plays alone
+C0236792	T048	asperger syndrome	3.7709	1080	40	179	25	1.0	asperger syndrome
+C4021798	T048	Impaired use of nonverbal behaviors	3.7262	626	3	56	0	0.6363	ritualized behaviors
+C0543488	T041	interest	3.6344	39	31	9	26	0.8191	intense interests
+C3845947	T033	Very limited	3.6	36	1	10	0	0.6569	limited attempt
+C0018378	T047	Guillain Barre Syndrome	3.6	18	0	20	4	0.8238	cri-du-chat syndrome
+C0009319	T047	colitis	3.5556	16	0	18	4	0.6395	ulcerative colitis
+C3552307	T033	Pigmentary abnormalities	3.5	0	2	0	7	0.6104	congenital abnormalities
+C2183954	T033	limited spoken vocabulary	3.5	7	1	2	0	0.8188	limited vocabulary
+C0154575	T048	Rumination Disorder	3.5	7	0	2	0	0.6163	social interaction disorder
+C2229249	T033	scar on face	3.5	7	0	2	0	0.7198	expressionless face
+C3279887	T033	Decreased speech	3.5	7	0	2	0	1.0	delayed; speech
+C0231651	T033	flail arm	3.5	7	0	2	0	0.6486	arm flapping
+C0018775	T047	hearing loss bilateral	3.5	14	0	4	1	1.0	hearing loss
+C1399787	T184	Change (in);skin	3.5	2	4	1	7	0.6887	skin indications
+C0038272	T041	stereotyped	3.4481	59	11	14	9	0.7153	stereotyped phrases
+C0021053	T047	immune system diseases	3.4375	11	1	16	5	0.6481	endocrine system diseases
+C3810448	T033	Cogwheel rigidity (in some patients)	3.4167	41	0	12	1	0.6054	rigidity of routines
+C0392185	T033	Verbal repetition	3.3971	77	17	12	9	0.7718	verbal repetition
+C0850717	T033	Tic;eye	3.375	27	1	32	4	0.7301	tics and mannerisms
+C3810435	T033	Minimal to absent speech	3.3333	10	1	3	0	0.6744	delayed; speech
+C2674421	T033	Jerking movements	3.3333	15	2	18	8	0.7457	stereotypical movements
+C4081879	T033	Verbalizes no understanding	3.3333	5	1	3	2	0.606	understanding context
+C0011127	T047	Pressure Ulcers	3.3333	2	1	3	5	0.742	stomach ulcer
+C0679048	T048	obsessive thinking	3.3088	45	8	51	30	0.6474	visual thinking
+C0018777	T047	Conductive hearing loss, NOS	3.2143	9	2	7	5	1.0	hearing loss
+C0038271	T055	Stereotyped Behaviors	3.2083	698	118	118	64	1.0	finger-play behavior
+C1855555	T033	Poor gross and fine motor coordination	3.2	16	0	5	1	0.6663	gross motor skills
+C4064312	T048	post-traumatic stress disorder with dissociative symptoms	3.2	4	0	10	8	0.6449	post-traumatic stress disorders
+C4018849	T048	Abnormal fear/anxiety-related behavior	3.2	8	0	5	2	0.978	finger-play behavior
+C0338986	T048	Atypical autism	3.1875	17	4	4	3	0.7499	autistic disorder
+C0221189	T056	jumping	3.15	21	5	8	6	0.6875	unusual posturing; jumping while holding crotch
+C1535926	T048	Neurodevelopmental Disorder	3.1282	122	13	30	10	0.6163	social interaction disorder
+C0233697	T048	Obsessions	3.1238	346	84	149	113	0.6106	compulsions or rituals
+C0851265	T048	learning; problem	3.0626	131	18	221	93	0.729	learning imitation
+C0870485	T041	emotional responses	3.0303	25	1	33	4	0.6335	control of emotional reactions
+C4064081	T033	significant difficulty in verbal and non-verbal communication	3.0123	244	14	81	14	0.7591	difficulty using non-verbal communication
+C0936244	T047	Developmental Gerstmann Syndrome	3.0	3	0	1	0	0.8238	cri-du-chat syndrome
+C0424686	T033	Head size	3.0	3	0	0	1	0.624	head banging
+C0022281	T033	eyes itching	3.0	9	0	6	2	0.7078	eye to eye gaze
+C0574767	T033	Black hair	3.0	3	0	0	0	0.9048	hair flicking
+C1402282	T048	learning; lack of (specific)	3.0	3	0	0	0	1.0	lack of connecting
+C4225412	T047	Spondylo-ocular syndrome	3.0	3	0	0	0	0.8238	cri-du-chat syndrome
+C2750590	T033	Short hair	3.0	3	0	1	0	0.9048	hair flicking
+C2080708	T033	Severe speech impairment	3.0	3	0	0	0	0.7227	delayed; speech
+C2748910	T047	Atypical Rett syndrome	3.0	3	0	0	0	0.8238	cri-du-chat syndrome
+C0154565	T048	Non-organic sleep disorder	3.0	3	1	0	0	1.0	sleep disorders
+C3824925	T054	Body language in children	3.0	3	0	1	0	0.7242	delayed; language
+C4064038	T033	social interaction impairment in nonverbal behaviors	3.0	3	0	0	0	0.7714	nonverbal social interaction capability
+C4017769	T033	Self-injurious behavior (in some patients)	3.0	36	2	6	0	0.8836	some self-stimulatory behavior
+C4228074	T033	Hearing loss, sensorineural, mild	3.0	6	0	2	0	0.6244	hearing loss
+C0239479	T033	face rounded	3.0	3	0	1	0	0.957	expressionless face
+C0344247	T047	Horizontal dissociated gaze palsy	3.0	1	0	0	3	0.6285	direct gaze
+C1839793	T033	Autistic-like behavior	3.0	12	1	4	0	1.0	finger-play behavior
+C4036294	T033	Usually appropriate behavior	3.0	3	0	1	1	0.7725	finger-play behavior
+C0852409	T048	Developmental disorders cognitive	3.0	3	1	0	0	0.628	learning disorders
+C0392335	T041	Cognitive function	3.0	9	1	6	2	0.7211	pathologic function
+C0454622	T048	Semantic-pragmatic impairment	3.0	3	0	1	0	0.9221	semantic-pragmatic impairment
+C4067225	T033	abnormal preoccupation tactile defensiveness	3.0	3	1	0	1	0.6608	tactile defensiveness (finger paints, playdough, shaving cream, etc.)
+C0424688	T033	small head	3.0	3	0	1	0	0.7542	head banging
+C2142822	T033	PSC-19: down on himself or herself	3.0	6	1	2	0	0.7097	slapping himself
+C1828062	T033	Difficulty hearing speech in large group setting	3.0	3	0	0	0	0.6523	delayed; speech
+C0233592	T048	Finger-flicking	3.0	9	0	3	0	1.0	finger flicking
+C0566027	T033	Verbal Impairment	3.0	9	1	3	0	0.9221	semantic-pragmatic impairment
+C0474417	T033	Self-care behavior	3.0	3	0	1	1	1.0	finger-play behavior
+C0022387	T047	Jervell Lange Nielsen Syndrome	3.0	3	0	0	0	0.8238	cri-du-chat syndrome
+C0037284	T047	lesion skin	3.0	5	3	5	9	0.6887	skin indications
+C3824790	T047	Asperger's syndrome in children	3.0	3	0	0	0	0.6286	cri-du-chat syndrome
+C0233928	T055	licked	3.0	6	0	2	0	0.8155	hand licking
+C0231687	T033	gait spastic	3.0	3	0	0	0	0.9266	toe-walking gait
+C4011951	T033	Nonverbal (in some patients)	3.0	3	0	0	0	0.6514	some echolalia
+C1857946	T033	Severe gastroesophageal reflux	3.0	9	1	3	0	1.0	gastroesophageal reflux
+C1837142	T033	Poor suck	3.0	6	0	2	0	0.7982	hand sucking
+C0494717	T047	Cheek and lip biting	3.0	3	0	1	1	0.651	arm biting
+C0162635	T047	angelman's syndromes	3.0	6	1	2	0	1.0	angelman syndrome
+C0026205	T047	miosis disorder	3.0	3	0	1	0	0.6163	social interaction disorder
+C3806796	T033	Autistic behavior (in some patients)	3.0	6	0	2	1	0.8836	some self-stimulatory behavior
+C2111895	T033	poorly developed social responsiveness	3.0	3	0	0	0	0.7149	no social responsiveness
+C1821460	T033	Pervasive mood	3.0	3	0	2	2	0.6132	mood disorders
+C4063017	T033	Decrease in gross motor skills	3.0	3	1	1	0	0.9525	gross motor skills
+C2118460	T047	Acute colitis	3.0	3	0	0	0	0.6395	ulcerative colitis
+C2751013	T033	Tonic posturing	3.0	6	1	2	0	0.765	body posturing
+C1394769	T047	respiratory; decompensation	3.0	3	0	1	0	0.6941	respiratory indications
+C0237220	T033	Abusive behavior	3.0	3	0	1	1	1.0	finger-play behavior
+C2362914	T048	clinical depression	3.0	3	1	9	9	0.7165	depressive disorder
+C0424961	T033	Constantly crying baby	3.0	3	0	0	0	0.632	communicates by grunting, screaming, crying
+C0935620	T041	emotional state	3.0	6	1	8	4	0.6089	emotional outbursts
+C2063820	T048	Rapid cycling bipolar I disorder	3.0	3	0	1	0	0.8242	bipolar disorder
+C0236791	T048	Childhood disintegrative disorder	3.0	3	0	0	0	1.0	childhood disintegrative disorder
+C0744944	T047	congenital hip problem	3.0	3	0	0	0	0.6528	repetition, nos
+C0424920	T033	english as a second language	3.0	3	0	2	2	0.673	delayed; language
+C0596344	T048	clinical anxiety	3.0	6	2	9	9	0.6298	social anxiety
+C0852418	T184	Speech and language abnormalities	3.0	3	0	0	0	0.7117	idiosyncratic language abnormalities
+C0795864	T047	magenis syndrome smith	3.0	3	0	1	0	0.8238	cri-du-chat syndrome
+C3665330	T047	Feline hyperaesthesia syndrome	3.0	3	1	1	0	0.7716	cri-du-chat syndrome
+C0860102	T080	Poor verbal skills	3.0	3	0	1	0	0.697	loss of language skills or other skills
+C0271568	T047	Laron Syndrome	3.0	3	0	0	0	0.8238	cri-du-chat syndrome
+C2182632	T033	milestone: uses words to communicate	3.0	3	1	0	0	0.6327	does not use gestures to communicate
+C0543973	T047	kaufman syndrome	3.0	3	0	1	0	0.8238	cri-du-chat syndrome
+C0232694	T033	hyperactive bowel sounds	3.0	6	2	1	0	0.7195	sing-songy sounds
+C0262503	T047	hearing loss in right ear	3.0	3	0	0	0	0.7712	hearing loss
+C1864436	T047	Muenke Syndrome	3.0	3	0	0	0	0.8238	cri-du-chat syndrome
+C0263893	T047	Putti syndrome	3.0	3	0	0	0	0.8238	cri-du-chat syndrome
+C0558222	T033	Volatile mood	3.0	3	1	1	0	0.6132	mood disorders
+C3840962	T033	Inappropriate words	3.0	3	0	1	1	0.8302	no words
+C4060931	T033	Prenatal complications	3.0	2	2	0	3	0.6508	complications in infancy
+C0566069	T033	Difficulty initiating conversation	3.0	3	1	0	1	0.8097	cannot initiate conversation
+C3554203	T033	Poor eye contact (in some patients)	3.0	3	0	1	0	0.9156	eye contact
+C2048502	T184	inappropriate laughing, joking, or punning	3.0	6	2	1	0	0.7203	inappropriate giggling
+C3150291	T033	Speech delay (1 patient)	3.0	3	0	1	0	0.6811	delay language
+C4066014	T033	celf-4 receptive language index standard score	3.0	3	0	0	0	0.6735	receptive language
+C2018069	T033	speech phonation involuntary sounds vocal tics cough	3.0	3	1	1	1	0.6209	speech echolalic
+C0510407	T058	Display interest in the patient	3.0	3	0	0	0	0.6793	interest in children notavailable
+C0036346	T048	Childhood schizophrenia NOS	3.0	3	1	1	0	0.6986	schizophrenia and disorders with psychotic features
+C4063299	T033	WJ-III COG score visual-spatial thinking	3.0	6	0	2	0	0.6428	visual thinking
+C0040226	T041	Time perception	3.0	6	1	4	2	0.7251	color perception
+C0562716	T048	hitting self	3.0	3	0	0	0	0.7385	self concept
+C2169672	T048	receptive language learning disability	3.0	3	0	0	0	0.809	receptive language
+C0850782	T033	social disorder	3.0	3	0	0	0	0.7474	withdrawal; social
+C0562463	T033	Repetitive spinning of objects	3.0	3	0	0	0	0.9049	repetitive spinning of objects
+C0013288	T047	Dumping syndrome	3.0	3	0	1	0	0.8238	cri-du-chat syndrome
+C4053506	T047	ROHHAD Syndrome	3.0	3	1	0	0	0.8238	cri-du-chat syndrome
+C0023264	T047	Disease, Leigh's	3.0	3	0	0	0	0.649	urogenital diseases
+C1838994	T033	Rapid onset	3.0	3	0	0	0	0.6162	onset of symptoms
+C2165329	T033	demonstrated behavior mannerisms pulling out hair	3.0	3	0	1	1	0.7431	hair pulling
+C0562717	T048	Punching self	3.0	3	0	1	0	0.7385	self concept
+C2018115	T033	speech tone high-pitched	3.0	3	0	1	0	1.0	speech tone high-pitched
+C3809486	T033	Early speech delay	3.0	3	0	1	0	1.0	speech delay
+C3809247	T033	Motor abnormalities	3.0	0	1	1	3	0.6104	congenital abnormalities
+C0555074	T184	Regurgitates food	3.0	3	0	0	0	0.694	preparation of food
+C1855263	T048	Disorganised thinking	3.0	3	0	3	3	0.7961	visual thinking
+C0575810	T033	Hands weakness of	3.0	3	1	0	1	0.6302	hand clapping
+C0231693	T033	Charcot Gait	3.0	3	0	1	1	0.9266	toe-walking gait
+C0796250	T047	PARTINGTON X-LINKED MENTAL RETARDATION SYNDROME	3.0	3	0	1	1	0.8315	mental retardation
+C0341118	T047	Eosinophilic ulcer of oesophagus	3.0	3	0	0	0	0.7724	stomach ulcer
+C1821635	T033	Washes face	3.0	3	0	0	0	0.957	expressionless face
+C0021831	T047	Intestinal Disease	3.0	3	0	1	1	0.7429	gastrointestinal diseases
+C0154633	T048	Other developmental speech or language disorder	3.0	3	1	0	0	0.719	never developed normal speech or language
+C1998720	T033	effective communication	3.0	3	0	1	1	0.7627	communication verbal
+C0577503	T033	Difficulty initiating spontaneous play	3.0	3	0	0	0	0.6479	imitative play
+C1968537	T033	Speech delay, severe	3.0	3	0	0	0	1.0	speech delay
+C2062758	T048	atypical pervasive developmental disorder	3.0	3	0	0	0	0.6451	autistic disorder
+C4065873	T033	communication impairment no verbal language	3.0	3	0	0	0	0.7743	no verbal communication
+C0020796	T048	Mental retardation, profound	3.0	3	1	0	0	1.0	mental retardation
+C4067230	T033	abnormal preoccupation obsessions	3.0	3	0	1	0	0.615	preoccupation with water
+C0576937	T033	Changes feeding in response to sound	3.0	3	0	0	0	0.6018	abnormal response to sound
+C1828439	T033	Pain behavior present	3.0	3	1	0	1	0.7657	finger-play behavior
+C1836834	T033	Non-purposeful arm movements, choreoathetoid-like	3.0	3	0	1	0	0.6486	arm flapping
+C0679082	T041	Social Learning	3.0	3	0	0	0	0.7352	withdrawal; social
+C4014415	T033	Very poor expressive speech	3.0	3	0	1	0	0.6807	delayed; speech
+C0036865	T054	Sexual behavior in animals	3.0	3	0	0	0	0.6151	finger-play behavior
+C0233530	T048	Unsocialized behavior disorder, aggressive type	3.0	3	0	0	0	0.6403	aggressive behavior
+C0425577	T033	Radiofemoral delay	3.0	0	0	0	3	0.6811	delay language
+C0037420	T033	social interaction	2.9333	231	7	45	4	0.8786	spontaneous social interaction
+C0005899	T055	Body-rocking	2.9	29	4	5	2	1.0	body rocking
+C0238111	T047	Lennox Gastaut Syndromes	2.8333	17	2	3	0	0.8238	cri-du-chat syndrome
+C0006009	T048	Intellectual disability, borderline	2.8	28	2	5	1	0.6704	mental retardation
+C4237324	T048	Other specified depressive disorder	2.8	14	0	10	2	0.868	depressive disorder
+C0855217	T048	Lack of spontaneous speech	2.8	28	5	10	5	0.77	very little spontaneous speech
+C0432347	T047	Uncombable hair syndrome	2.8	14	0	5	0	0.7331	hair flicking
+C1299544	T033	History of substance abuse	2.8	7	2	5	4	0.8467	substance abuse
+C1442861	T033	black eye	2.8	14	0	5	0	0.7078	eye to eye gaze
+C0265316	T047	neurocutaneous syndromes	2.7879	8	22	3	23	0.8238	cri-du-chat syndrome
+C4062278	T033	Difficulty in use of facial expressions	2.75	11	4	1	0	0.7567	facial expressions
+C0037431	T033	Social problem NOS	2.72	204	3	125	5	0.8042	repetition, nos
+C3551741	T033	Constipation (in some patients)	2.7143	19	0	14	2	0.6514	some echolalia
+C1960870	T047	Transformed migraine	2.7042	24	2	71	16	0.8174	migraine disorders
+C0221074	T048	Postpartum depression, NOS	2.6744	23	2	43	10	0.7165	depressive disorder
+C0037322	T041	rem sleeping	2.6667	8	0	3	0	0.6512	sleep disorders
+C0085409	T047	Polyendocrinopathies, Autoimmune	2.6667	8	6	0	2	0.6177	autoimmune diseases
+C3532934	T048	Mild expressive language delay	2.6667	8	0	3	0	0.8888	expressive language
+C4014493	T033	Regression of early motor skills	2.6667	8	3	0	1	0.8416	motor skills
+C0265240	T047	Goldenhar Syndrome	2.6667	8	0	3	0	0.8238	cri-du-chat syndrome
+C1394717	T047	loop; bowel	2.6667	2	0	3	4	0.6795	bowel disorders
+C0232466	T033	FEEDING DIFFICULTY	2.6494	144	14	66	17	0.6078	difficulty answering questions
+C1849160	T033	Obsessive tendencies	2.625	21	1	16	2	0.6476	echolalia tendencies heard
+C0038273	T048	Stereotypic Movement Disorder	2.62	131	40	15	12	0.7335	stereotypic movements
+C0024796	T047	Marfan syndrome	2.619	11	7	3	5	0.8238	cri-du-chat syndrome
+C4061375	T033	Increase in anger	2.6154	17	1	26	4	0.7431	anger control
+C2164866	T033	Delayed fine motor skills	2.6	13	0	5	0	1.0	fine motor skills
+C4228184	T033	Minimal eye contact	2.6	13	0	5	0	1.0	eye contact
+C0814104	T055	unsafe behavior	2.5991	79	33	35	38	0.6274	self-abusive behavior
+C2115875	T033	Disordered Thinking	2.5658	26	19	16	30	0.6163	social interaction disorder
+C1821250	T033	Nasal tone to voice	2.5455	28	1	11	1	0.6225	speech tone high-pitched
+C0424366	T033	self harm	2.5146	761	375	276	342	0.8991	deliberate self harm
+C2371976	T041	Combining words into phrases	2.5143	22	5	7	4	0.7714	phrases
+C0022738	T047	Klippel-Feil syndrome	2.5	5	0	2	0	0.8238	cri-du-chat syndrome
+C2061812	T033	interim stress electrocardiogram pacemaker pacing too slowly	2.5	1	2	1	5	0.6001	pacing the floor
+C0701824	T184	Staggering gait	2.5	5	0	2	0	0.9266	toe-walking gait
+C0232695	T033	bowel decreased sound	2.5	5	0	4	2	0.7354	sing-songy sounds
+C1822065	T033	Engages in creative play	2.5	15	3	2	1	0.8197	engages in creative play
+C1837650	T033	Lack of spontaneous play	2.5	5	1	2	0	0.6745	imitative play
+C3697816	T048	Mild developmental articulation disorder	2.5	10	0	4	1	0.7459	delayed; articulation
+C0424304	T033	inappropriate laughter	2.5	5	1	2	1	0.6801	inappropriate giggling
+C0424236	T033	Constant movement	2.5	5	0	2	0	0.6057	stereotypic movements
+C0010964	T047	dandy syndrome walker	2.5	5	0	2	1	0.8238	cri-du-chat syndrome
+C1849916	T033	Purposeless movements (if left untreated)	2.5	5	1	2	1	0.6557	stereotypical movements
+C3266843	T047	47 XYY syndrome	2.5	5	0	2	0	0.8238	cri-du-chat syndrome
+C0349207	T048	Other manic episodes	2.5	2	4	0	5	0.6226	manic - pacing
+C0752166	T047	Bardet-Biedl Syndrome	2.5	5	1	2	0	0.8238	cri-du-chat syndrome
+C0037395	T054	Social adjustment, NOS	2.5	5	0	2	1	0.6588	withdrawal; social
+C0581387	T048	Recurrent anxiety	2.5	5	0	2	0	0.6873	social anxiety
+C1847610	T033	Deficit in expressive language	2.4706	21	0	17	2	0.9329	expressive language
+C0474415	T033	Non-compliant behaviour	2.4545	9	0	11	3	1.0	finger-play behavior
+C0009946	T048	conversion disorders	2.4394	21	3	66	23	0.6163	social interaction disorder
+C0013528	T048	Echolalia	2.4333	550	145	53	34	0.79	some echolalia
+C3276616	T033	Poor communication	2.4286	17	2	7	2	0.7627	communication verbal
+C0012734	T048	disruptive behavior disorder	2.4195	79	13	108	43	1.0	finger-play behavior
+C2115901	T033	thought processes executive functions problem-solving	2.4048	101	1	42	0	0.6355	executive function
+C0018799	T047	Disease;heart	2.4029	129	20	102	38	0.649	urogenital diseases
+C0561744	T033	Visual short-term memory performance	2.4	36	0	15	1	0.6863	working memory
+C4087263	T048	Persistent depressive disorder	2.4	12	0	10	2	1.0	depressive disorder
+C0021797	T054	Interpersonal Relation	2.4	12	1	5	1	0.7853	marked impairment of interpersonal relations
+C2957312	T033	head bobbing	2.4	6	1	5	2	0.6209	head banging
+C0009595	T048	Obsessive-compulsive personality	2.381	60	6	84	20	0.6474	obsessive-compulsive disorder
+C0024115	T047	Lung disease NOS	2.359	46	0	39	2	0.649	urogenital diseases
+C3687424	T033	Abnormal vocalization	2.3434	29	3	33	8	0.8524	stereotypic vocalization
+C3840607	T033	Other pregnancy-related complications	2.3333	7	1	3	1	0.6768	pregnancy complications
+C0154695	T047	Diplegic infantile cerebral palsy	2.3333	7	0	3	0	0.7954	cerebral palsy
+C0085271	T055	Self injurious behavior	2.3177	920	362	284	259	1.0	self-injurious behavior
+C1855106	T033	Neonatal onset	2.3111	8	15	3	13	0.6162	onset of symptoms
+C1832348	T033	Slow growing hair	2.3077	3	1	13	10	0.9048	hair flicking
+C2018077	T033	speech pragmatics	2.2857	32	2	7	0	0.8655	delayed; speech
+C2675334	T033	Restrictive behavior, interests, and activities	2.2857	320	20	49	7	0.6183	restrictive behavior, interests, and activities
+C0849824	T184	bowel changes movements	2.2857	8	2	7	4	0.7457	stereotypical movements
+C0679190	T055	defensive behavior	2.2857	8	0	7	2	0.6241	self-abusive behavior
+C0563715	T033	Difficulty controlling anger	2.28	19	1	25	3	0.7753	anger control
+C4063211	T033	wms-iv visual working memory standard score	2.2667	34	0	15	0	0.7205	working memory
+C0454642	T048	receptive language delay	2.25	18	1	8	1	1.0	language delay
+C0262502	T047	hearing loss in left ear	2.25	9	0	4	0	0.799	hearing loss
+C0001957	T047	alcohol; delirium, withdrawal	2.25	3	0	4	3	0.6459	social withdrawal
+C0025362	T048	Mental-retardation	2.2148	81	80	48	105	1.0	mental retardation
+C0524528	T048	pervasive development disorder	2.2127	927	63	133	20	0.8001	pervasive child development disorders
+C2164864	T033	delayed developmental milestones language	2.2	22	5	2	1	0.8183	language milestones quite delayed
+C0151908	T184	Dry;skin	2.2	22	2	15	3	0.6887	skin indications
+C0233715	T033	Speech impairment	2.1964	41	3	56	9	0.9221	semantic-pragmatic impairment
+C1827547	T033	Repetitious behaviour	2.1849	624	84	119	35	1.0	finger-play behavior
+C1303198	T033	Unknown risk of deliberate self harm	2.1818	6	0	11	4	0.874	deliberate self harm
+C0475176	T033	Mildly abnormal behavior	2.1667	39	0	18	1	0.7164	self-abusive behavior
+C0009452	T054	communication	2.1667	13	1	6	1	0.7627	communication verbal
+C3843246	T033	Extreme difficulty	2.1429	15	0	7	1	0.6078	difficulty answering questions
+C0241424	T048	TONGUE BITE	2.1313	11	40	4	31	0.8039	arm biting
+C0566189	T033	Difficulty communicating feelings	2.125	17	0	8	0	0.6254	ability to convey feelings
+C0556279	T033	Personal care impairment	2.125	17	1	8	0	0.6812	semantic-pragmatic impairment
+C2732653	T048	Nonverbal learning disorder	2.125	34	1	16	1	0.8531	learning disorders
+C0524851	T047	Neurodegenerative Disorder	2.1231	23	13	5	6	0.8848	neurodegenerative diseases
+C2370875	T041	Shifting attention	2.1111	19	0	9	0	0.6602	attention to voice notavailable
+C0036857	T048	Severe intellectual disabilities	2.1111	38	2	9	1	0.6704	mental retardation
+C0599729	T048	socialized aggressive child behavior	2.1111	4	6	6	19	0.627	aggressive behavior
+C0221736	T033	Reaction emotional	2.1081	26	1	37	3	0.7924	control of emotional reactions
+C0476241	T033	Delayed developmental milestones	2.1	77	15	22	9	0.7537	motor milestones
+C0004623	T047	Infection bacterial	2.0833	5	3	4	5	1.0	bacterial infections
+C4021799	T048	Restrictive behavior	2.0833	25	4	21	7	1.0	finger-play behavior
+C1276802	T080	Sudden onset (attribute)	2.0769	27	4	13	4	0.6162	onset of symptoms
+C0454633	T033	Articulatory defect, NOS	2.0714	29	1	14	0	0.6353	congenital kidney defect
+C1406026	T048	receptive; language	2.0476	43	7	21	7	1.0	delayed; language
+C2610222	T055	irritable aggressive behavior	2.0468	350	45	19	5	0.7564	aggressive behavior
+C0562921	T033	Difficulty adjusting clothing	2.0	15	1	15	2	0.6361	clothing self
+C0162529	T047	Ischaemic colitis, NOS	2.0	2	0	1	0	0.6395	ulcerative colitis
+C0424377	T033	Swallowing objects	2.0	2	1	0	0	0.7792	obsesses on bendable objects
+C0854145	T047	Disorder, Feeding	2.0	10	1	5	0	0.6163	social interaction disorder
+C0018572	T047	Hand, foot, and mouth disease	2.0	4	0	2	0	0.6224	hand clapping
+C0233637	T048	illogical thought	2.0	4	0	2	1	0.7961	visual thinking
+C4274439	T048	Developmental language comprehension impairment	2.0	10	0	5	0	0.6757	comprehension of simple language
+C1385285	T048	tendency; paranoid	2.0	2	0	0	0	0.6476	echolalia tendencies heard
+C2675043	T033	Limited social interactions	2.0	32	1	16	0	0.8433	decreased social interactions
+C0427165	T033	Cautious gait	2.0	2	0	1	0	0.9266	toe-walking gait
+C3550616	T033	Self-stimulating behavior (in some patients)	2.0	6	1	3	0	0.8836	some self-stimulatory behavior
+C0033931	T048	Psychophysiologic disorder	2.0	2	0	0	1	0.6163	social interaction disorder
+C1865017	T033	Thin vermilion of the upper lip	2.0	4	1	2	1	0.6628	lip smacking
+C1136249	T047	Mental Retardation, X Linked	2.0	2	1	0	0	1.0	mental retardation
+C0566439	T033	Does finger feed	2.0	8	0	4	1	0.6824	finger wiggling
+C3670495	T055	Hiding behavior	2.0	2	0	1	0	1.0	finger-play behavior
+C3840125	T033	Developmental delay in social skills	2.0	4	0	2	0	0.6668	poor social skills or interest in social interaction with peers
+C0154936	T033	Pupillary abnormalities	2.0	2	0	0	0	0.6104	congenital abnormalities
+C1837463	T033	Narrow face	2.0	2	0	0	0	0.957	expressionless face
+C0221444	T047	syndrome clinical	2.0	6	1	3	0	0.7145	cri-du-chat syndrome
+C0678236	T047	Disease, Rare	2.0	8	0	4	0	0.649	urogenital diseases
+C4066066	T033	cars2-hf thinking / cognitive integration skills score	2.0	2	0	0	0	0.6173	isolated cognitive skills
+C4061990	T033	Unrealistic expectations	2.0	2	0	1	0	0.7748	understanding others' expectations
+C2750331	T033	Enamel defects	2.0	2	0	0	0	0.6353	congenital kidney defect
+C1445919	T033	Family history of autism	2.0	1	0	0	2	0.6495	autistic disorder
+C0231444	T033	Flail motion	2.0	6	0	3	0	0.684	low repetitie sensory motion
+C0220983	T047	Alkalosis metabolic	2.0	2	0	0	1	0.7113	metabolic indications
+C0010481	T047	cushing syndrome	2.0	2	1	2	2	0.8238	cri-du-chat syndrome
+C0474418	T033	Overtly sexualized behavior in childhood	2.0	0	2	1	4	0.6209	self-abusive behavior
+C0426183	T033	Head engaged	2.0	2	0	0	0	0.6668	cannot be engaged
+C1277340	T033	Deterioration in school performance	2.0	4	0	4	2	0.8388	performance in school
+C0233686	T048	thought withdrawal	2.0	0	1	1	2	0.6459	social withdrawal
+C0035869	T047	Rotavirus Infection	2.0	2	0	1	0	0.817	herpesviridae infections
+C4021075	T033	Moderate conductive hearing impairment	2.0	4	0	2	0	0.6943	hearing loss
+C0423757	T033	skin thinning	2.0	2	0	0	0	0.6887	skin indications
+C4064666	T033	limited or no interactions with peers given social opportunity	2.0	2	1	0	0	0.6016	poor social skills or interest in social interaction with peers
+C0237113	T033	language speech	2.0	18	1	9	0	1.0	delayed; language
+C3550786	T033	Decreased fine motor coordination	2.0	4	0	2	0	0.6895	fine motor skills
+C1842201	T033	Clumsy gait	2.0	0	1	1	2	0.9266	toe-walking gait
+C0270496	T048	Schizoaffective disorder, Bipolar type	2.0	6	1	3	0	0.6545	bipolar disorder
+C0474401	T033	Eccentric behavior	2.0	2	1	0	0	1.0	finger-play behavior
+C4064037	T033	social interaction impairment in peer relationships	2.0	4	0	2	1	0.7666	impairment of peer relationships
+C3809593	T033	Dystonia (in some patients)	2.0	2	1	1	0	0.6514	some echolalia
+C2112832	T033	posture clenched fists	2.0	2	0	1	0	0.6197	body posture
+C1838026	T033	Speech limited to single word or no words	2.0	2	0	0	0	0.6765	word
+C3277379	T033	Progressive hearing loss (in some)	2.0	2	0	1	0	1.0	hearing loss
+C0948281	T047	malignant syndrome	2.0	2	0	0	0	0.8238	cri-du-chat syndrome
+C1835884	T033	Triangular face	2.0	2	1	0	0	0.957	expressionless face
+C2018019	T033	speech fluency dialogue dysfluency	2.0	2	0	0	1	0.6688	aprosodic speech
+C0560424	T033	Ability to perform gross motor function	2.0	2	0	0	1	0.6912	gross motor skills
+C2128203	T033	excessive hair on the face	2.0	2	0	0	0	0.7591	hair flicking
+C1838055	T033	Mouth movements	2.0	8	0	4	0	0.7457	stereotypical movements
+C1567741	T047	Alport's Syndrome	2.0	2	0	1	0	0.8238	cri-du-chat syndrome
+C0162835	T047	Hypopigmentation disorders	2.0	4	0	2	0	0.6463	migraine disorders
+C0013238	T047	syndrome dry eye	2.0	4	2	5	5	0.6315	cri-du-chat syndrome
+C0041747	T033	Pregnancy, Unplanned	2.0	2	0	1	0	0.6815	pregnancy complications
+C0814554	T054	Social participation	2.0	2	0	0	0	0.6489	social awkwardness
+C0566625	T033	Articulations, Unintelligible	2.0	2	0	0	0	1.0	delayed; articulation
+C0199173	T058	Invasive medical procedure, NOS	2.0	2	0	1	0	0.6093	repetition, nos
+C0233612	T184	Flexibilities, Waxy	2.0	4	2	1	1	0.6709	mental flexibility
+C2243051	T033	Large head (disorder)	2.0	4	0	2	0	0.7542	head banging
+C4013568	T033	Impaired motor control, mild	2.0	2	1	1	0	0.6332	motor perseveration
+C0002874	T047	Anemia aplastic	2.0	6	1	3	0	0.6327	repetition, nos
+C4230941	T033	Hyposensitivity to pain (less common)	2.0	2	1	0	1	0.6619	indifference to pain
+C0038441	T048	Stress Disorder, Traumatic	2.0	2	0	1	0	0.6008	post-traumatic stress disorders
+C2219943	T184	fear of loss of control of emotions	2.0	2	0	0	0	0.6033	control of emotional reactions
+C1704373	T048	Disorders, Compulsive Personality	2.0	4	0	2	0	0.7084	compulsive behavior
+C3280826	T033	Difficulty with writing and drawing	2.0	6	1	3	0	0.6341	obsessed with elevators, writing, and drawing
+C0007760	T047	Cerebellar Disease	2.0	2	0	2	2	0.6055	central nervous system diseases
+C0520672	T048	Recurrent major depressive disorder with catatonic features	2.0	2	0	0	0	0.6344	depressive disorder
+C0015371	T047	Extrapyramidal Disorders	2.0	2	0	0	0	0.6163	social interaction disorder
+C0870371	T055	cravings	2.0	4	0	6	3	0.8566	abnormal craving
+C0348160	T047	Other Vincent's infections	2.0	2	0	1	0	0.817	herpesviridae infections
+C0517029	T033	Participates in social interaction	2.0	16	2	4	1	0.7701	spontaneous social interaction
+C0023374	T047	Lesch Nyhan Syndrome	2.0	6	1	3	1	0.8238	cri-du-chat syndrome
+C2029783	T033	left-beating horizontal nystagmus induced by head shaking	2.0	2	0	0	0	0.706	head shaking
+C0575105	T033	Flinging movement	2.0	2	0	0	0	0.6057	stereotypic movements
+C0680091	T048	sexual difficulty	2.0	2	0	0	0	0.6754	sexual issues
+C0679123	T055	attitude and behavior	2.0	2	0	0	0	0.6931	immoderate behavior
+C3863314	T047	High frequency sensorineural hearing loss of bilateral ears	2.0	2	0	0	0	0.7358	hearing loss
+C4061883	T033	Change in stress-reduction behavior	2.0	2	0	0	0	0.7044	finger-play behavior
+C4021538	T047	Mild neurosensory hearing impairment	2.0	2	1	0	0	0.7254	hearing loss
+C2111220	T033	language therapy receptive understand conversational speech	2.0	2	0	0	0	0.7203	no conversational speech
+C2004687	T184	abnormality of walk intermittent	2.0	4	1	2	0	0.6231	abnormality of toe walking
+C2018049	T033	speech nonverbal communication skills eye contact	2.0	2	0	0	0	0.7073	eye contact
+C1970828	T033	Neurodevelopmental impairment (early-onset form)	2.0	2	0	0	0	0.9221	semantic-pragmatic impairment
+C4065489	T033	demonstrated behavior stereotypy clapping	2.0	2	0	0	0	0.6117	self-abusive behavior
+C4060652	T033	Developmentally inappropriate interests	2.0	2	0	1	0	0.6328	intense interests
+C2183437	T033	difficulty reading English	2.0	2	0	1	0	0.6007	reading and writing
+C2115874	T048	preoccupation with violent thoughts	2.0	2	1	1	0	0.6491	preoccupation with trash, bathrooms, memorizing birthdays
+C0555972	T047	infection; toe	2.0	2	0	0	0	0.7502	toe walking
+C2165336	T033	demonstrated behavior stereotypy (automatic behavior)	2.0	2	1	1	0	0.6393	self-abusive behavior
+C1321226	T055	Safety behaviour	2.0	2	1	1	0	1.0	finger-play behavior
+C0231688	T033	Shuffling Gait	2.0	4	0	2	1	0.9266	toe-walking gait
+C4064032	T033	social interaction nonverbal behaviors inappropriate emotions	2.0	2	0	1	0	0.7576	nonverbal social interaction capability
+C1406736	T033	fatigue; syndrome	2.0	2	0	0	0	0.8238	cri-du-chat syndrome
+C0517122	T033	Controls bladder in daytime	2.0	2	0	1	0	0.6456	acquisition of bladder control daytime
+C1276786	T048	bipolar i disorder severe	2.0	2	0	0	0	1.0	bipolar disorder
+C0013124	T055	Drinking behavior processes	2.0	2	0	1	0	0.7556	finger-play behavior
+C3874334	T033	Severe hearing loss	2.0	2	0	0	0	1.0	hearing loss
+C0427131	T033	Interrupted gait	2.0	2	0	0	0	0.9266	toe-walking gait
+C1820624	T033	Chewing clothing	2.0	2	1	0	0	0.8088	clothing self
+C1318746	T033	increased lead levels	2.0	4	1	2	1	0.6157	lead exposure
+C1141890	T047	congenital long qt syndrome	2.0	1	0	0	2	0.6985	cri-du-chat syndrome
+C2026067	T047	central hearing loss in the right ear	2.0	4	0	2	0	0.736	hearing loss
+C0232410	T033	Increased hair growth (finding)	2.0	2	0	1	0	0.6657	hair flicking
+C3280841	T033	Slow, monotonous speech	2.0	2	0	0	0	0.8083	delayed; speech
+C0392701	T184	giddy mood	2.0	2	0	0	0	0.6064	mood disorders
+C4062225	T033	Inability to use facial expressions	2.0	2	1	1	0	0.8155	facial expressions
+C1866988	T033	Catatonic behavior	2.0	2	0	0	0	1.0	finger-play behavior
+C1850568	T047	Nakajo syndrome	2.0	4	0	2	1	0.8238	cri-du-chat syndrome
+C3843247	T033	Moderate difficulty	2.0	2	0	0	0	0.6078	difficulty answering questions
+C4068229	T033	Sensory or speech status	2.0	2	0	0	0	0.7033	delayed; speech
+C1394295	T048	cycloid; psychosis, with symptoms of schizophrenia	2.0	0	5	1	10	0.6101	schizophrenia and disorders with psychotic features
+C1299960	T033	Play aggression	2.0	2	0	1	0	0.678	aggressive behavior
+C0425610	T033	Loudness of heart sounds	2.0	2	0	0	1	0.6288	sing-songy sounds
+C1836296	T033	Lower limb muscle weakness	2.0	2	0	1	1	0.8386	muscle weakness
+C0010823	T047	Cytomegalovirus Infections	2.0	2	0	0	0	0.817	herpesviridae infections
+C2371933	T041	Reception of gestural language	2.0	2	0	1	0	0.8082	delayed; language
+C4041250	T058	Management of impulse control	2.0	2	0	0	0	0.7198	impulse control and regulation
+C0566033	T033	Difficulty use the elements of language	2.0	2	0	0	0	0.6425	delayed; language
+C1860489	T033	Overlapping features of DiGeorge syndrome	2.0	2	1	1	0	0.6548	cri-du-chat syndrome
+C0452136	T047	Conductive hear loss,bilateral	2.0	2	1	0	0	0.8029	hearing loss
+C1867443	T047	Haspeslagh Fryns Muelenaere syndrome	2.0	2	0	0	0	0.8238	cri-du-chat syndrome
+C4064036	T033	social interaction impairment in sharing enjoyment, interests, achievements	2.0	2	1	0	0	0.666	impairment of non-verval social interaction
+C1856532	T033	Restrictive impairment	2.0	2	0	0	0	0.9221	semantic-pragmatic impairment
+C0796074	T047	Mohr-Tranebjaerg syndrome	2.0	2	1	0	0	0.8238	cri-du-chat syndrome
+C0856761	T047	Budd-Chiari Syndrome	2.0	2	0	0	0	0.8238	cri-du-chat syndrome
+C2370876	T041	Sharing attention	2.0	2	0	0	0	0.6602	attention to voice notavailable
+C0086931	T055	risk behaviors	2.0	2	0	1	1	0.6218	finger-play behavior
+C0517617	T033	Identifies harmful impulsive behaviors	2.0	4	1	2	1	0.624	ritualized behaviors
+C4064030	T033	social interaction peer relationships oblivious to other children	2.0	2	0	0	0	0.6715	has social interaction with other children
+C1843793	T033	Progressive language deterioration	2.0	2	0	0	0	0.6513	delayed; language
+C0729918	T047	Multisystem disorder A-B	2.0	2	0	1	0	0.6163	social interaction disorder
+C0679157	T054	animal social behavior	2.0	2	0	0	0	0.6902	impairment of social behavior
+C4066057	T033	cars2-st nonverbal communication score	2.0	4	0	2	0	0.7207	non-verbal communication
+C0481701	T033	communication; problem	2.0	2	0	0	0	0.7627	communication verbal
+C0425548	T033	Transmitted sounds	2.0	2	1	0	0	1.0	sing-songy sounds
+C0454595	T047	Motor speech disorder	2.0	2	0	0	0	0.793	delayed; speech
+C1847402	T033	Nocturnal tongue biting and bleeding	2.0	2	0	0	0	0.6232	arm biting
+C0393593	T047	Dystonia Disorder	2.0	7	0	7	2	0.6163	social interaction disorder
+C4227807	T033	Dyskinesia (in some patients)	2.0	2	0	0	0	0.6514	some echolalia
+C0561741	T033	Verbal short-term memory performance	2.0	2	0	1	1	0.6863	working memory
+C0158328	T047	Trigger finger (disorder)	2.0	2	0	1	0	0.8705	finger wiggling
+C3697171	T033	Disruptive vocalization	2.0	4	0	2	0	0.8524	stereotypic vocalization
+C1299956	T033	Redirected aggression	2.0	2	0	1	0	0.678	aggressive behavior
+C2673867	T033	Developmental delay, mild to severe	2.0	2	0	1	0	0.6811	delay language
+C0270337	T048	Idiot savant	2.0	2	0	0	0	0.6608	savant negative
+C0585349	T033	Cries in response to sound	2.0	4	0	2	0	0.7577	abnormal response to sound
+C4065991	T033	celf-4 working memory index	2.0	2	0	1	0	0.791	working memory
+C0265421	T047	Complete trisomy 8 syndrome	2.0	2	0	0	0	0.6537	cri-du-chat syndrome
+C0221741	T033	Eye scratch	2.0	2	0	1	0	0.7078	eye to eye gaze
+C0424444	T033	teeth clenching	2.0	2	0	0	0	0.6179	hitting jaw with hand to click teeth
+C1328842	T047	autoimmune rheumatologic disease	2.0	2	2	1	2	0.6704	autoimmune diseases
+C1860291	T033	Mental retardation (average IQ 56)	2.0	2	0	1	0	0.8048	severe speech/language retardation
+C0425083	T033	loss of job	2.0	4	0	2	0	0.6502	job performance
+C0680406	T054	Collective behavior	2.0	2	0	0	0	1.0	finger-play behavior
+C0272170	T047	Shwachman syndrome	2.0	2	1	0	0	0.8346	cri-du-chat syndrome
+C0796238	T047	X-linked mental retardation 31	2.0	2	0	0	0	0.9085	mental retardation
+C2676166	T033	Poor language and speech development	2.0	2	0	1	0	0.7647	delayed speech and language development
+C0036400	T047	scimitar syndrome	2.0	2	1	0	0	0.8238	cri-du-chat syndrome
+C0005750	T047	blind loop syndromes	2.0	2	0	0	0	0.6098	cri-du-chat syndrome
+C0423528	T033	Response to voice	2.0	2	0	0	0	0.6176	attention to voice notavailable
+C2237169	T033	mood self-contemptuous	2.0	2	0	1	0	0.6132	mood disorders
+C3824699	T101	Children with autism spectrum disorders	2.0	2	0	0	0	0.6568	autism spectrum disorder related condition
+C3552656	T033	Bradycardia (in some patients)	2.0	2	0	0	0	0.6514	some echolalia
+C4012444	T033	Squeaky cry (rare)	2.0	2	1	1	0	0.6095	cry as hypersensitive to stimulus
+C3551996	T033	Eczema (in some patients)	2.0	2	0	0	0	0.6514	some echolalia
+C0242583	T047	Bare Lymphocyte Syndrome	2.0	2	0	0	0	0.8238	cri-du-chat syndrome
+C2137067	T033	ENT surgical result speech worsened	2.0	2	0	0	0	0.6552	delayed; speech
+C1306341	T048	handicapped mental	2.0	2	0	1	0	0.7373	mental process
+C1399259	T033	caul over face	2.0	2	0	0	0	0.6493	expressionless face
+C4065054	T033	functional limitations in expressive and receptive language	2.0	2	1	1	0	0.7571	receptive & expressive language difficulties
+C0175713	T047	aicardi's syndrome	2.0	2	1	0	0	0.8238	cri-du-chat syndrome
+C3668948	T048	Circling behavior	2.0	2	0	0	0	1.0	finger-play behavior
+C4237460	T048	Unspecified communication disorder	2.0	2	0	0	0	0.8214	social communication disorder
+C0162299	T047	Cyst of the Thyroid	2.0	2	0	0	0	0.6752	thyroid diseases
+C0476546	T033	Strange+inexplicable behavior	2.0	2	0	0	0	1.0	finger-play behavior
+C0233647	T184	Neologism	2.0	0	1	1	2	0.6012	neologisms idiosyncratic language notavailable
+C1839829	T033	Short distal phalanx of finger	2.0	2	0	0	0	0.6181	finger wiggling
+C0458275	T080	Affective response to pain	2.0	2	0	1	0	0.6374	does not respond to pain appropriately
+C0240928	T184	salt crave	2.0	2	1	1	1	0.8566	abnormal craving
+C0238288	T047	MUSCULAR DYSTROPHY FACIOSCAPULOHUMERAL	2.0	2	1	0	0	1.0	muscular dystrophy
+C4023358	T047	Maternal autoimmune disease	2.0	2	0	1	0	0.8368	autoimmune diseases
+C0265338	T047	Coffin-Siris Syndrome	2.0	2	0	0	0	0.8423	cri-du-chat syndrome
+C0424489	T033	Chapping of lips	2.0	2	0	1	0	0.8599	lip smacking
+C4013236	T033	Overlapping fingers (in some patients)	2.0	2	0	1	0	0.6574	finger wiggling
+C0151684	T033	skin granuloma	2.0	2	0	0	0	0.6887	skin indications
+C2046274	T033	excessive hair on the upper lip	2.0	2	0	0	0	0.6144	hair flicking
+C0548878	T033	Ineffective problem solving	2.0	2	0	1	0	0.7849	problem solving ability
+C0220687	T047	KBG SYNDROME	2.0	2	0	0	0	0.8238	cri-du-chat syndrome
+C4228526	T033	Tented upper lip (patient A)	2.0	2	0	1	0	0.7181	lip smacking
+C4023681	T033	Delayed fine motor development	2.0	2	0	1	0	0.7727	fine motor skills
+C0454639	T048	Receptive language impairment	2.0	2	1	1	0	0.7301	delayed; language
+C0558077	T033	Constantly crying	2.0	2	0	0	0	0.7139	communicates by grunting, screaming, crying
+C4029827	T033	celf-4 core language score	2.0	6	0	3	0	0.6367	delayed; language
+C3552117	T033	Aura (in some instances)	2.0	2	1	1	0	0.6514	some echolalia
+C1319164	T055	Physical fitness behaviour	2.0	2	0	0	0	0.6325	finger-play behavior
+C1398215	T048	behavioral disorder; emotional disorder	2.0	2	0	1	0	0.6402	emotional outbursts
+C1859690	T047	Camptodactyly, arthropathy, coxa-vara, pericarditis syndrome	2.0	1	0	1	2	0.8337	cri-du-chat syndrome
+C0242292	T047	McCune-Albright Syndrome	2.0	2	0	0	0	0.8238	cri-du-chat syndrome
+C1860403	T047	Tucker syndrome	2.0	2	0	0	0	0.8238	cri-du-chat syndrome
+C0027126	T047	Dystrophy, Myotonic	2.0	2	0	1	0	0.682	muscular dystrophy
+C0700129	T033	Incoherent speech	2.0	2	0	0	0	1.0	delayed; speech
+C1821449	T033	Flexed posture	2.0	2	0	0	0	0.8129	body posture
+C1862920	T033	Excessive chewing/mouthing behaviors	2.0	2	0	0	1	0.881	ritualized behaviors
+C2114821	T033	pronation during swing phase of gait	2.0	2	0	0	0	0.6863	toe-walking gait
+C0262576	T047	nerve palsies	2.0	2	0	0	0	0.6081	cerebral palsy
+C1856026	T033	Cleft of the lower lip	2.0	2	0	0	0	0.7227	lip smacking
+C1710621	T184	Vasovagal Reaction	2.0	2	1	1	0	0.678	echo reaction
+C0562447	T033	Demanding behavior	2.0	2	0	0	0	1.0	finger-play behavior
+C0562444	T033	Excess behavior	2.0	2	0	2	2	1.0	finger-play behavior
+C3551015	T033	Difficulty walking on heels	2.0	2	1	1	0	0.7687	walking on toes
+C0242342	T047	sheehan syndrome	2.0	2	0	0	0	0.8306	cri-du-chat syndrome
+C0265246	T047	townes syndrome	2.0	2	0	0	0	0.8238	cri-du-chat syndrome
+C1864817	T033	Deafness, profound	2.0	2	0	0	0	0.7552	hearing loss
+C3670534	T033	Distress vocalization	2.0	2	0	0	0	0.8524	stereotypic vocalization
+C1398206	T184	slow; behavior	2.0	2	0	0	1	1.0	finger-play behavior
+C0237261	T033	inappropriate word usage	2.0	2	0	0	0	0.6644	word
+C0234868	T184	Involuntary vocalisation	2.0	2	0	1	0	0.8524	stereotypic vocalization
+C0231856	T033	abnormal breath sound	2.0	2	1	0	0	0.7988	sing-songy sounds
+C4062572	T033	Spastic movement	2.0	2	1	1	0	0.6057	stereotypic movements
+C2922615	T058	rnax assess cognitive ability	2.0	2	0	0	1	0.8004	cognitive ability
+C0265291	T047	Kenny-Caffey Syndrome	2.0	2	0	1	1	0.8238	cri-du-chat syndrome
+C0332583	T080	green colour	2.0	2	0	1	0	0.714	color perception
+C1842872	T033	Feeding problems in infancy	2.0	1	0	0	2	0.7192	complications in infancy
+C1635258	T033	On examination - past pointing	2.0	1	0	0	2	0.6233	notavailable pointing
+C0600125	T033	Prolonged PR interval	2.0	1	1	1	2	0.7525	spatiotemporal interval
+C0878785	T033	delayed developmental milestones language late talker	2.0	2	0	0	0	0.7384	language milestones quite delayed
+C3257968	T033	Other language	2.0	2	0	1	0	1.0	delayed; language
+C0375359	T047	Left-sided ulcerative (chronic) colitis	2.0	2	0	1	0	1.0	ulcerative colitis
+C0086431	T047	HURLER-SCHEIE SYNDROME	2.0	0	1	0	2	0.8238	cri-du-chat syndrome
+C1285662	T055	Characteristic of aggressive behaviour	2.0	2	0	1	0	0.8589	aggressive behavior
+C1274639	T033	Dark brown hair	2.0	2	0	1	0	0.6291	hair flicking
+C0562591	T033	Pulling other person's hair	2.0	2	0	0	0	0.6751	hair flicking
+C1401147	T047	intestine; complaints	2.0	2	0	0	0	0.6709	digestive complaints
+C0854110	T047	insulin resistant diabetes (mellitus)	2.0	2	0	0	0	0.7684	diabetes mellitus type 1
+C2229183	T058	milestones assessment	2.0	2	0	0	0	0.6508	motor milestones
+C0436342	T033	Free of symptoms	2.0	0	0	1	2	0.6943	onset of symptoms
+C0236845	T047	Breathing-related sleep disorder	2.0	0	0	0	2	0.77	sleep disorders
+C0518061	T055	Pain control behaviour	2.0	0	0	0	2	0.7148	finger-play behavior
+C0679477	T048	Impaired social functioning	2.0	0	0	1	2	0.6209	impaired social interaction
+C0477458	T047	Other specified hearing loss	2.0	0	0	0	2	0.8541	hearing loss
+C1264606	T047	Persistent infection	2.0	0	0	0	2	0.7321	herpesviridae infections
+C0150841	T184	muscle pain or weakness	2.0	0	0	0	2	0.6309	muscle weakness
+C1504560	T184	L'Hermitte syndrome	2.0	0	0	1	2	0.8238	cri-du-chat syndrome
+C3806142	T033	Recurrent severe infections	2.0	0	0	0	2	0.654	bacterial infections
+C1394876	T047	glomerulonephritis; defibrination syndrome (manifestation)	2.0	0	0	0	2	0.6972	cri-du-chat syndrome
+C0231796	T184	respiratory abnormalities	2.0	0	0	0	2	0.6941	respiratory indications
+C3267035	T047	Digital ulcer	2.0	0	0	0	2	0.742	stomach ulcer
+C0231685	T033	Antalgic gait	2.0	0	0	1	2	0.9266	toe-walking gait
+C0498344	T058	behavior management, by report	2.0	0	0	0	2	0.6337	finger-play behavior
+C1507009	T033	pain onset	2.0	0	0	0	2	0.6162	onset of symptoms
+C0029646	T054	Other interpersonal problem	2.0	0	0	0	2	0.6203	interpersonal awareness

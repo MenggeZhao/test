@@ -1,4 +1,4 @@
-CUI,              Name,               Odds ratio (ASD vs Non-psychiatric),              Odds ratio (ASD vs Psychiatric),               Frequency (%, positive, ASD),               Frequency (%,negative, ASD),               Frequency (%,positive, Non-psychiatric),               Frequency (%,negative, Non-psychiatric),               Frequency (%,positive, Psychiatric),               Frequency (%,negative, Psychiatric),               TUI
+CUI,Name,Odds ratio (ASD vs Non-psychiatric),Odds ratio (ASD vs Psychiatric),Frequency (%, positive, ASD),Frequency (%,negative, ASD),Frequency (%,positive, Non-psychiatric),Frequency (%,negative, Non-psychiatric),Frequency (%,positive, Psychiatric),Frequency (%,negative, Psychiatric),TUI
 C2018050,"speech nonverbal communication skills facial expressions",789.0,16.102,9.1862,0.0,0.6195,0.0,0.0118,0.0,T033
 C1821309,"Disruption of routine",282.0,7.2308,3.2833,0.0,0.493,0.0,0.0118,0.0,T033
 C4021798,"Impaired use of nonverbal behaviours",274.6667,4.9048,9.5937,0.0349,0.708,0.0,0.0118,0.0,T048
